@@ -10,4 +10,4 @@ ConvolutionalAE: scripts for training and testing the autoencoder
                  - oldModel [10 20] trained models with old architecture (less layers)
                  - Models and Results : first batch of reconstructed images and graphs
 Exercices : little programs made to understand the basics
-Articles : Articles similar to this project or that could be useful (in particular 1.Creusot, second one, and Sagi Eppel)
+Articles : Articles ,collected on internet, similar to this project or that could be useful (in particular 1.Creusot, second one, and Sagi Eppel)
