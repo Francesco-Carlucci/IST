@@ -1,5 +1,7 @@
 XMLProcessing: script that reads labels in the xml files and inpaint the swimmers
+
 LineDetExp: script that detect the pools, remove outer border and generate a mask for each image
+
 ConvolutionalAE: scripts for training and testing the autoencoder
 
                  - AE and oldAE : scripts with the autoencoder architectures
