@@ -12,7 +12,7 @@ ConvolutionalAE: scripts for training and testing the autoencoder
                  
                  - ModelTest : script that load a trained model and show what it does on the testset 
                  
-                              (TODO make heatmaps, from loss detect areas of anomalies and their bounding boxes)
+                              (make heatmaps, from loss detect areas of anomalies and their bounding boxes)
                              
                  - newModel [10 50 100] trained models with new arcitecture
                  
